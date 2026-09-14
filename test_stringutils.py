@@ -13,5 +13,13 @@ def test_is_palindrome_with_spaces():
     assert is_palindrome("nurses run")
 
 
+def test_is_palindrome_empty_string():
+    assert is_palindrome("")
+
+
 def test_reverse_words():
     assert reverse_words("the quick fox") == "fox quick the"
+
+
+def test_reverse_words_empty_string():
+    assert reverse_words("") == ""
