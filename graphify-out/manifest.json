@@ -1,0 +1,20 @@
+{
+  "stringutils.py": {
+    "mtime": 1791308897.664418,
+    "seen": 1791313060.844515,
+    "ast_hash": "905cd6ced2c3df55b73b0f59d73fd39b",
+    "semantic_hash": "905cd6ced2c3df55b73b0f59d73fd39b"
+  },
+  "test_stringutils.py": {
+    "mtime": 1791308897.664418,
+    "seen": 1791313060.844521,
+    "ast_hash": "a79a1d8a8b3593dc935c601df5978807",
+    "semantic_hash": "a79a1d8a8b3593dc935c601df5978807"
+  },
+  "README.md": {
+    "mtime": 1791308897.664418,
+    "seen": 1791313060.8445241,
+    "ast_hash": "6ba79b171c507f864a66b16d513f7c70",
+    "semantic_hash": "6ba79b171c507f864a66b16d513f7c70"
+  }
+}
